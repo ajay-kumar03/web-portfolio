@@ -1,0 +1,77 @@
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+nav {
+	color: white;
+	background-color: rgba(35, 35, 35, 0.75);
+	padding: 10px;
+	position: sticky;
+	top: 10px;
+	text-decoration: none;
+	box-shadow: 5px 5px 10px black;
+
+}
+
+#bgimg {
+ 	background-image: url("https://static.vecteezy.com/system/resources/previews/005/007/766/non_2x/sweet-flower-hand-drawn-minimal-beige-background-free-vector.jpg");
+ 	background-position: top;
+	z-index: 1;
+ }
+
+.bcol {
+	margin-top: 40vh;
+	margin-left: 30vw;
+}
+
+
+.navbar button {
+	background-color: white;
+}
+
+.tc1 {
+	color: rgba(200, 200, 200, 1.0);
+}
+
+nav img {
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+.meimg {
+	margin-top: 10%;
+}
+
+.intro {
+	font-size: 24px;
+}
+
+a:hover{
+	color: lightgreen !important;
+}
+
+h5 + p {
+	text-shadow: 1px 1px 3px #31b1dd;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.procar {
+	margin-top: 15%;
+}
+
+.cpnt {
+	margin-top: 10%;
+}
+
+.text-pink {
+	color: #f7aab0;
+	color: black;
+	text-shadow: 1px 1px 3px #31b1dd;
+}
+
+.bg-skin {
+	background-color: rgba(247, 170, 176, 0.9);
+	border-radius: 20px;
+}
